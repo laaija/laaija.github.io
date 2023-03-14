@@ -6,7 +6,7 @@ remote_theme: oinam/oinam-jekyll
 footer:
   custom: true
 
-footer_custom: "© 2008 - <script>document.write(new Date().getFullYear())</script>. All Rights Reserved. Laaija."
+footer_custom: "All Rights Reserved. Laaija."
 
 styles:
   forms: false
