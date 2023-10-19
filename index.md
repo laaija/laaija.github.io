@@ -8,4 +8,4 @@ I’m the first born and reigning princess of the Oinam Family. I was born to [S
 
 I love painting and sketching. I love to play games too. Some of my favorites, at the moment, are Minecraft, FNAF, and Roblox. Actually, I'm fine playing any fun game.
 
-My parents write about our family's weird, sometimes funny but mostly not-so-funny [stories](https://stories.oinam.com).
+My parents write about our family's weird, sometimes funny but mostly not-so-funny [stories](https://story.oinam.com).
